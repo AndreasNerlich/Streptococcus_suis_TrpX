@@ -1,7 +1,7 @@
 # <i>Streptococcus suis</i> TrpX
 This repository contains supplementary data and code related to the manuscript "Identification and characterization of the cell division protein MapZ of <i>Streptococcus suis</i>". 
 
-[tbox-scan code](tbox-scan code) contains the modified pipeline_master.py file used to analyse the T-box riboswitch of the <i>S. suis trpXYZ</i> operon with tbox-scan (https://github.com/jamarchand/tbox-scan).
+[tbox-scan_code](tbox-scan_code) contains the modified pipeline_master.py file used to analyse the T-box riboswitch of the <i>S. suis trpXYZ</i> operon with tbox-scan (https://github.com/jamarchand/tbox-scan).
 
 
 This work is licensed under a
