@@ -3,6 +3,9 @@ This repository contains supplementary data and code related to the manuscript "
 
 [tbox-scan_code](tbox-scan_code) contains the modified pipeline_master.py file used to analyse the T-box riboswitch of the <i>S. suis trpXYZ</i> operon with tbox-scan (https://github.com/jamarchand/tbox-scan).
 
+----
+
+Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
