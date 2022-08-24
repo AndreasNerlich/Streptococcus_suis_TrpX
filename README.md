@@ -1,7 +1,22 @@
 # <i>Streptococcus suis</i> TrpX
-This repository contains supplementary data and code related to the manuscript "<i>Streptococcus suis</i> TrpX is part of a tryptophan uptake system, and its expression is regulated by a T-box regulatory element". 
+This repository contains supplementary data and code related to the manuscript "<i>Streptococcus suis</i> TrpX is part of a tryptophan uptake system, and its expression is regulated by a T-box regulatory element" published in Scientific Reports (https://doi.org/10.1038/s41598-022-18227-3).
 
 [tbox-scan_code](tbox-scan_code) contains the modified pipeline_master.py file used to analyse the T-box riboswitch of the <i>S. suis trpXYZ</i> operon with tbox-scan (https://github.com/jamarchand/tbox-scan).
+
+## How to cite 
+```bibtex
+% 35978073 
+@Article{pmid35978073,
+   Author="Dresen, M.  and Schaaf, D.  and Arenas, J.  and de Greeff, A.  and Valentin-Weigand, P.  and Nerlich, A. ",
+   Title="{{S}treptococcus suis {T}rp{X} is part of a tryptophan uptake system, and its expression is regulated by a {T}-box regulatory element}",
+   Journal="Sci Rep",
+   Year="2022",
+   Volume="12",
+   Number="1",
+   Pages="13920",
+   Month="Aug"
+}
+```
 
 ----
 
