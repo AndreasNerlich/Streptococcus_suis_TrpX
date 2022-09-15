@@ -3,6 +3,8 @@ This repository contains supplementary data and code related to the manuscript "
 
 [tbox-scan_code](tbox-scan_code) contains the modified pipeline_master.py file used to analyse the T-box riboswitch of the <i>S. suis trpXYZ</i> operon with tbox-scan (https://github.com/jamarchand/tbox-scan).
 
+[Homology_Modelling](Homology_Modelling) contains the 3D-homology model of TrpX based on the available structural data of the <i>S. pneumoniae</i> protein A0A0H2UPV6 (pdb code: 3lft) generated using the SWISS-MODEL server.
+
 ## How to cite 
 ```bibtex
 % 35978073 
